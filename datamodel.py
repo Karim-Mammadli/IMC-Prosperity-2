@@ -102,7 +102,8 @@ class TradingState(object):
     def toJSON(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True)
 
-    
+
+# ProsperityEncoder class as mentioned might be needed for JSON encoding if complex objects are to be encoded    
 class ProsperityEncoder(JSONEncoder):
 
         def default(self, o):
