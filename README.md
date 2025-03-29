@@ -29,9 +29,9 @@ This repository contains a Python-based trading bot designed for the **IMC-Prosp
     cd IMC-Prosperity-2
     ```
 
-2. **Run the trading bot** (`trader.py`) for scenario simulations:
+2. **Run the trading bot** (`amy2.py`) for scenario simulations:
     ```bash
-    python trader.py
+    python amy2.py
     ```
 
 > **Note:** Ensure you have Python 3.x installed. Additional Python packages (if required by the bot) can be installed via:
