@@ -8,7 +8,7 @@ This repository contains a Python-based trading bot designed for the **IMC-Prosp
 
 ## 📂 Repository Structure
 
-- `trader.py` – **Main trading bot** file that contains the core algorithm, strategies, and logic adapted for each scenario.
+- `amy2.py` – **Main trading bot** file that contains the core algorithm, strategies, and logic adapted for each scenario.
 - Supporting files or configurations (if any) required to run simulations and trading scenarios.
 
 ---
